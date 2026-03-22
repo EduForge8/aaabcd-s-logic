@@ -1,4 +1,4 @@
-现实的底层代码：系统化结构思维开源手册 (Ver 1.0)
+现实的底层代码：系统化结构思维开源手册 
 
 The Source Code of Reality: An Open-Source Manual for Systematic Structural Thinking
 
