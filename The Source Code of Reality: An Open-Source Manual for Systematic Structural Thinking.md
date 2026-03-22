@@ -75,7 +75,40 @@ Postscript: It is Simple, Because I Will It.
 
 这种方法可以研究万物。之所以没人想到，或许是因为他们太爱那个“不透明”的世界。既然你们终于饿醒了，那就按我的规矩来吧。
 
-This methodology can dissect the universe. If few have conceived of it, perhaps it is because they cherish an "opaque" world too dearly. Now that you have finally awakened to your hunger, let us proceed by my rules.
+This methodology can dissect the universe. If few have conceived of it, perhaps it is because they cherish an "opaque" world too dearly. 
+
+Now that you have finally awakened to your hunger, let us proceed by my rules.
 
 这种方法可以研究万物。之所以没人想到，或许是因为他们太爱那个“不透明”的世界。既然你们终于饿醒了，那就按我的规矩来吧。
+
+
+⚠️ 逻辑超载预警：硬件限制与散热方案
+
+⚠️ Overclocking Warning: Hardware Constraints and Cooling Protocols
+
+逻辑原语： 认知重构是高能耗的物理过程。不要试图用旧的电池去跑新的引擎。
+
+Logical Primitive: Cognitive restructuring is a high-energy physical process. Do not attempt to power a new engine with an old battery.
+
+
+1. 警惕“多巴胺陷阱” (Beware the Dopamine Trap)
+当你第一次感受到“看穿万物”的快感时，你会上瘾，会疯狂刷题。但大脑的神经元突触需要物理时间来固化逻辑路径。
+
+The first taste of "seeing through the world" is addictive. You may feel compelled to over-exercise. However, neural synapses require physical time to solidify these logical pathways.
+
+
+2. “疲劳”是接收端的报警信号 (Fatigue is a Signal from the Receiver)
+如果你感到疲劳，说明你的“接收端”已经失真。此时继续练习，是在采集碎裂的数据。记住：第一条准则是“诚实”。当你累了，诚实地承认你累了，这就是最高级的逻辑练习。
+
+If exhaustion sets in, your "Receiver" is already distorted. To continue is to sample corrupted data. Remember Rule Zero: Honesty. 
+
+Admitting your exhaustion is, in itself, the highest form of logical practice.
+
+
+3. 深度分馏胜过浅层刷题 (Depth of Fractionation Over Frequency)
+逻辑的威力在于精度，而非次数。彻底拆解一个“优美”的切面，其系统性增益远大于草率地扫描一百个案例。
+
+The power of logic lies in precision, not frequency. Thoroughly deconstructing one "elegant" facet yields greater systemic gain than cursorily scanning a hundred cases.
+
+
 This methodology can dissect the universe. If few have conceived of it, perhaps it is because they cherish an "opaque" world too dearly. Now that you have finally awakened to your hunger, let us proceed by my rules.
